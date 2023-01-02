@@ -3,7 +3,7 @@ Codes to run PathTracer algorithm with test input files
 
 ReadMe: PathTracer
 
-Stepwise use of scripts ine algorithm with test inputs and outputs.
+Stepwise use of scripts in algorithm with test inputs and outputs.
 
 1) compute_edgeweights.py: This script takes in master-network and a nodeweights-file and outputs capacity, inverse-capacity and plain edge weights file positional arguments:
   networkfile      provide network file. Format: node1<tab>node2
